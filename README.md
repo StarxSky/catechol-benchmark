@@ -1,6 +1,6 @@
 # Learning Continuous Solvent Effects from Transient Flow Data
 
-Reference implementation for the paper **“Learning Continuous Solvent Effects from Transient Flow Data: A Graph Neural Network Benchmark on Catechol Rearrangement”[** (arXiv: 2512.19530v1)](https://arxiv.org/abs/2512.19530).
+Reference implementation for the paper **“Learning Continuous Solvent Effects from Transient Flow Data: A Graph Neural Network Benchmark on Catechol Rearrangement”**[ (arXiv: 2512.19530v1)](https://arxiv.org/abs/2512.19530).
 
 This repository provides code for:
 - GNN with GAT + DRFP + learned mixture encoding
